@@ -1,0 +1,3 @@
+Put your photo here as: date-photo.jpg
+(or change the path in src/dateConfig.js)
+Until it exists, a cute illustrated puppy is shown instead.
